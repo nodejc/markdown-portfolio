@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Japanese food
+* Music
+  * Rock
+  * Classic
+  * EDM
+* Books
+  * The Lord of the Rings
+  * The Hobbit
+  * Harry Potter series
